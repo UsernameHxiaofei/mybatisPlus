@@ -9,7 +9,7 @@ package com.southwind.mybatisplus.adapter;
 public interface AttributeRuleAdapter {
 
     /**
-     * 这是test1添加的的代码
+     * 这是test1添加的的代码 第二次添加
      */
 
 
