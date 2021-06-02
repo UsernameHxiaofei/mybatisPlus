@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://61.155.161.74:3308/crm?useUnicode=true&characterEncoding=UTF-8
+    username: rt_kason
+    password: Ag25967$3@gshoa28gSgwf
+#  thymeleaf:
+#    prefix: classpath:/templates/
+#    suffix: .html
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+#  type-enums-package:
+#    com.southwind.mybatisplus.enums
+#  global-config:
+#    db-config:
+#      logic-not-delete-value: 0
+#      logic-delete-value: 1
